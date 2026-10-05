@@ -2,6 +2,10 @@
 
 An AI-powered prototype that structures partner API information into an integration readiness brief, surfaces missing context, and identifies where human action is still required.
 
+## Live Demo
+
+[Try the Integration Readiness Agent](https://integration-readiness-agent.streamlit.app)
+
 ## Why I Built This
 
 Integration planning often requires information scattered across API documentation, authentication requirements, permissions, testing environments, event systems, and platform constraints.
